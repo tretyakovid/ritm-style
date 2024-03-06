@@ -1,10 +1,9 @@
 # [ritm-style](https://tretyakovid.github.io/ritm-style/)https://tretyakovid.github.io/ritm-style/
-## 🔭 Features :
+## 🔭 Done :
 
-1) Random Password Generation
-2) Generate strong password
-3) Attractive and Simple UI design
-4) Copy the generated passwords
+1) Several pages created (home, news, blog)
+2) Optimization for different devices at my own discretion
+3) Added animations to elements at my discretion
 
 # TECHNOLOGIES USED 📌
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)

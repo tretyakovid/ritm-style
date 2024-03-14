@@ -1,4 +1,4 @@
-# https://tretyakovid.github.io/ritm-style/)https://tretyakovid.github.io/ritm-style/
+# https://tretyakovid.github.io/ritm-style/
 ## 🔭 Done :
 
 1) Several pages created (home, news, blog)
